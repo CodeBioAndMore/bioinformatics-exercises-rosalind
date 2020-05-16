@@ -10,4 +10,7 @@ And in this project you have some of the solutions that I have proposed.
 
 📌 I still have a lot to improve, but this page is a source of motivation and the responses of other users are a source of inspiration and knowledge.
 
+📋 Table of Contents
+#Solution 1: Counting DNA Nucleotides [ID=DNA]
+
 🚀 Thanks for reading!
