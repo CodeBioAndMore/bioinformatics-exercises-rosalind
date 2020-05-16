@@ -21,5 +21,6 @@ print("1) Answer:")
 print("'A' 'C' 'G' 'T'") 
 print(*map(stringDNA.count, "ACGT")) #The map() function executes a specified function for each item in a iterable. The item is sent to the function as a parameter.
 
+#Other Solution
 for i in 'ACGT':
     print(stringDNA.count(i))
